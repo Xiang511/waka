@@ -5,8 +5,10 @@
 </p>
 
 ---
+## 📌 [matchai /waka-box](https://github.com/matchai/waka-box?tab=ISC-1-ov-file#readme)  | Made by [matchai](https://github.com/matchai)  thanks for his contribution
 
-> 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
+
+>  For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
 ## Setup
 
